@@ -2,9 +2,10 @@
 title: 磊的个人网站
 SEOTitle: 磊的个人网站
 header-img: img/post-bg-desk.jpg
-email: klovien@gmail.com
+#email: klovien@gmail.com
+email: lileikaoyan@163.com
 description: "人的一生总得有个目标"
-keyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
+keyword: "技术交流"
 url: "https://1xiao-xiong.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
